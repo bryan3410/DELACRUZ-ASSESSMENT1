@@ -20,6 +20,7 @@ html, body {
     overflow: hidden;
     background-color: #fdf6f0;
     height: 100vh;
+    padding: 0 15rem;
 }
 
 .heading {
@@ -58,7 +59,7 @@ html, body {
     padding-top: 0.6rem;
 }
 
-    @media(min-width: 500px) and (max-width: 768px){
+    @media(min-width: 400px) and (max-width: 768px){
         html, body {
             margin: 0;
         }
